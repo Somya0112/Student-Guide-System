@@ -5,7 +5,7 @@
   This project tries to explore ways to automate the process of assessing previous exam performance and predict if a student will drop the course or needs special attention or not. 
   - <h2> NOTE</h2> We have made a dashboard for better understanding of the results  click the link provided 👇.
    * [Check out the Dashboard for better results]https://student-guide-system-recommendation.streamlit.app/
-   * If you want to contribute check 👉.
+   * If you want to contribute check 👉https://github.com/SobhikaMahajan/Student-Guide-System.git.
 
 # Objective
    With the project fully up and running the aim is as follows:
