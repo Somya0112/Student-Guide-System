@@ -1,8 +1,7 @@
 import pandas as pd
 import streamlit as st
 import pickle
-from iteration_utilities import unique_everseen
-from iteration_utilities import duplicates
+from more_itertools import unique_everseen 
 
 nav = st.sidebar.selectbox(
 'PLEASE SELECT WHAT YOU ARE LOOKING FOR',
